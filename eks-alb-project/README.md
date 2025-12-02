@@ -1,4 +1,4 @@
-Ingress
+# Ingress
 This project automates the creation and deployment of an AWS EKS cluster with Fargate. It sets up the necessary IAM roles, installs the AWS Load Balancer Controller, and deploys the 2048 sample game app using Kubernetes manifests.
 
 The repository includes:
